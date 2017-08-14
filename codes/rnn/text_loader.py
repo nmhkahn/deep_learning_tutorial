@@ -21,7 +21,7 @@ class TextLoader:
     def __init__(self, path):
         with open(path, "r") as _file:
             text = list(_file.read())
-
+            
         self.vocab, self.words = build_vocab(text)
         self.text = np.array([self.vocab[word] for word in text])
 
