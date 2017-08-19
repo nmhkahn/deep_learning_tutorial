@@ -15,3 +15,9 @@
 3. [Style transfer](codes/style_transfer)
 4. [Super-resolution](codes/super_resolution)
 5. [Deep Convolutional GAN](codes/gan)
+
+## Requirements
+
+- Python 3.x
+- TensorFlow >= 1.0.0
+- numpy, scipy, matplotlib
