@@ -7,10 +7,11 @@
 3. [Recurrent Neural Network](https://github.com/nmhkahn/deep_learning_tutorial/blob/master/slides/RNN.pdf)
 4. [TensorFlow 튜토리얼](https://github.com/nmhkahn/deep_learning_tutorial/blob/master/slides/TensorFlow.pdf)
 5. [CNN applications](https://github.com/nmhkahn/deep_learning_tutorial/blob/master/slides/CNN_applications.pdf)
-6. [Generative Adversarial Network]()
+6. [Generative Adversarial Network](slides/GAN.pdf)
 
 ## 실습 자료
-1. [TensorFlow 기초 실습](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/basics)
-2. [RNN 실습](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/rnn)
-3. [Style transfer 실습](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/style_transfer)
-4. [Super-resolution 실습](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/super_resolution)
+1. [TensorFlow 기초](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/basics)
+2. [RNN](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/rnn)
+3. [Style transfer](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/style_transfer)
+4. [Super-resolution](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/super_resolution)
+5. [Deep Convolution GAN](https://github.com/nmhkahn/deep_learning_tutorial/tree/master/codes/gan)
